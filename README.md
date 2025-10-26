@@ -34,11 +34,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoang&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f472b6" />
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huyhoang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
 
 ## Connect With Me
 
