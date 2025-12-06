@@ -31,7 +31,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoang&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f472b6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoang04&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f472b6" />
 </div>
 
 
