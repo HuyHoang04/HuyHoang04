@@ -1,44 +1,78 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=20&color=00F5D4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Huy+Hoang+👋;Backend+Developer" alt="Typing SVG" />
+  <img src="./asset/header.gif" width="100%" alt="Header" />
 </div>
 
-## Tech Stack
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" align="center" valign="middle">
+      <p align="justify">
+        <font size="3">
+          I'm a <b>Backend Developer</b> with a strong foundation in building scalable, high-performance systems, currently expanding my expertise into <b>DevOps</b> and <b>Cloud Native</b> technologies. 
+          I bridge the gap between development and operations to deliver robust, automated, and efficient software solutions.
+        </font>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./asset/coding-boy-coding.svg" width="100%" alt="Coding Boy" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
-<p>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="60" height="60" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi&theme=dark" />
-</p>
-<p>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark" />
-</p>
-
-<p>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
-</p>
+  <h3>Technical Expertise</h3>
+  <p>
+    <b>Backend Engineering:</b> RESTful APIs, Microservices, System Design, Database Optimization, Distributed Systems<br/>
+    <b>DevOps & Cloud:</b> CI/CD Pipelines, Infrastructure as Code (IaC), Containerization (Docker, Kubernetes), Automation, Linux Administration<br/>
+    <b>Tools & Languages:</b> Java, Python, TypeScript, Go, AWS, Terraform, Jenkins, GitHub Actions
+  </p>
 </div>
 
-## GitHub Stats
+<br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoang04&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f472b6" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,git,linux,vscode,nginx,mongodb,postgresql,redis&theme=dark" />
 </div>
 
-
-## Connect With Me
+<br/>
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-lahuyhoang04%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahuyhoang04@gmail.com)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoang04&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f472b6" width="80%" />
 </div>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img src="./asset/arrow.gif" width="300" alt="Penguin" />
+    </td>
+    <td width="60%" align="left">
+      <h3>Connect With Me</h3>
+      <a href="mailto:lahuyhoang04@gmail.com">
+        <img src="https://img.shields.io/badge/Email-lahuyhoang04%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/huyhoanglaprofile/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br/>
+      <a href="https://huyhoang04.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a>
+      <br/>
+    </td>
+  </tr>
+</table>
