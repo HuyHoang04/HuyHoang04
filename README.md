@@ -48,31 +48,28 @@
 
 <br/>
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huyhoang04&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f472b6" width="80%" />
+  <table border="0" width="90%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="./asset/arrow.gif" width="300" alt="Penguin" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <h3>Connect With Me</h3>
+        <a href="mailto:lahuyhoang04@gmail.com">
+          <img src="https://img.shields.io/badge/Email-lahuyhoang04%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <br/>
+        <a href="https://www.linkedin.com/in/huyhoanglaprofile/">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <br/>
+        <a href="https://huyhoang04.github.io/">
+          <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+        </a>
+        <br/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="40%" align="center">
-      <img src="./asset/arrow.gif" width="300" alt="Penguin" />
-    </td>
-    <td width="60%" align="left">
-      <h3>Connect With Me</h3>
-      <a href="mailto:lahuyhoang04@gmail.com">
-        <img src="https://img.shields.io/badge/Email-lahuyhoang04%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <br/>
-      <a href="https://www.linkedin.com/in/huyhoanglaprofile/">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br/>
-      <a href="https://huyhoang04.github.io/">
-        <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-      </a>
-      <br/>
-    </td>
-  </tr>
-</table>
