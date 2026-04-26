@@ -34,15 +34,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50"/><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,git,linux,vscode,nginx,mongodb,postgresql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,git,linux,vscode,nginx,mongodb,postgresql,redis&theme=dark"/>
 </div>
 
 <br/>
