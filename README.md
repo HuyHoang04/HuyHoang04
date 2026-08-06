@@ -58,7 +58,7 @@
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <br/>
-        <a href="https://huyhoang04.github.io/">
+        <a href="https://huyhoang-portfolio-kappa.vercel.app/">
           <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
         </a>
         <br/>
